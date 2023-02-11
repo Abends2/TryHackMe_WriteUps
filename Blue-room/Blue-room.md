@@ -77,6 +77,7 @@ set payload windows/x64/shell/reverse_tcp
 ![ScreenShot](screenshots/7.png)
 
 Теперь сделаем так, чтобы данный процесс работал в фоновом режиме (CTRL + Z)
+
 ![ScreenShot](screenshots/8.png)
 
 
