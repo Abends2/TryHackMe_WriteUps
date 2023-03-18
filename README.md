@@ -3,7 +3,7 @@
 | No.   | Machine name                                                                               |  Difficulty |
 | ----- | ------------------------------------------------------------------------------------------ | :----------:|
 | 1     | :green_book: [Basic-Pentesting](../main/Basic-Pentesting-room/Basic-Pentesting-room.md)    | Easy        |
-| 2     | :green_book: [RootMe](../main/IRootMe-room/RootMe-room.md)                                 | Easy        |
+| 2     | :green_book: [RootMe](../main/RootMe-room/RootMe-room.md)                                  | Easy        |
 | 3     | :green_book: [Simple-CTF](../main/Simple-CTF-room/Simple-CTF-room.md)                      | Easy        |
 | 4     | :green_book: [Vulnversity](../main/Vulnversity-room/Vulnversity-room.md)                   | Easy        |
 | 5     | :green_book: [Bounty-Hacker](../main/Bounty-Hacker-room/Bounty-Hacker-room.md)             | Easy        |
