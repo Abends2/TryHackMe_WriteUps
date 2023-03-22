@@ -11,4 +11,5 @@
 | 7     | :green_book: [tomghost](../main/tomghost-room/tomghost-room.md)                            | Easy        |
 | 8     | :green_book: [Pickle-Rick](../main/Pickle-Rick-room/Pickle-Rick-room.md)                   | Easy        |
 | 9     | :green_book: [LazyAdmin](../main/LazyAdmin-room/LazyAdmin-room.md)                         | Easy        |
-
+| 10    | :green_book: [Nmap](../main/Nmap-room/Nmap-room.md)                                        | Easy (Info) |
+| 11    | :green_book: [Hydra](../main/Hydra-room/Hydra-room.md)                                     | Easy (Info) |
