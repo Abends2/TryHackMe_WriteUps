@@ -13,3 +13,4 @@
 | 9     | :green_book: [LazyAdmin](../main/LazyAdmin-room/LazyAdmin-room.md)                         | Easy        |
 | 10    | :green_book: [Nmap](../main/Nmap-room/Nmap-room.md)                                        | Easy (Info) |
 | 11    | :green_book: [Hydra](../main/Hydra-room/Hydra-room.md)                                     | Easy (Info) |
+| 12    | :green_book: [Memory-Forensics](../main/Memory-Forensics-room/Memory-Forensics-room.md)    | Easy        |
