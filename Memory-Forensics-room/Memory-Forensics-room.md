@@ -3,10 +3,15 @@
 ## Task 1: Introduction
 
 Useful resourse:
+
 *Volatility*: https://github.com/volatilityfoundation/volatility/
+
 *Volatility3*: https://github.com/volatilityfoundation/volatility3/
+
 *Volatility Command Reference*: https://github.com/volatilityfoundation/volatility/wiki/Command-Reference#imageinfo
+
 *Cheatsheet 1*: https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-examples
+
 *Cheatsheet 2*: https://blog.onfvp.com/post/volatility-cheatsheet/
 
 ## Task 2: Login
