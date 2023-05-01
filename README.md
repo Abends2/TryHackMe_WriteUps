@@ -15,3 +15,5 @@
 | 11    | :green_book: [Hydra](../main/Hydra-room/Hydra-room.md)                                     | Easy (Info) |
 | 12    | :green_book: [Memory-Forensics](../main/Memory-Forensics-room/Memory-Forensics-room.md)    | Easy        |
 | 13    | :green_book: [Agent Sudo](../main/Agent-Sudo-room/Agent-Sudo-room.md)                      | Easy        |
+| 14    | :green_book: [Cyborg](../main/Cyborg-room/Cyborg-room.md)                                  | Easy        |
+
