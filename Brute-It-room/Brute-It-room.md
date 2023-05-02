@@ -9,6 +9,7 @@
 nmap -sC -sV 10.10.221.141
 ```
 ![ScreenShot](screenshots/1.png)
+
 Мы нашли:
 - 22 port - SSH (OpenSSH 7.6p1)
 - 80 port - HTTP (Apache httpd 2.4.29)
