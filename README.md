@@ -17,3 +17,5 @@
 | 13    | :green_book: [Agent Sudo](../main/Agent-Sudo-room/Agent-Sudo-room.md)                      | Easy        |
 | 14    | :green_book: [Cyborg](../main/Cyborg-room/Cyborg-room.md)                                  | Easy        |
 | 15    | :green_book: [Brute It](../main/Brute-It-room/Brute-It-room.md)                            | Easy        |
+| 16    | :green_book: [Bolt](../main/Bolt-room/Bolt-room.md)                                        | Easy        |
+ 
