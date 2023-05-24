@@ -21,4 +21,4 @@
 | 17    | :green_book: [Brooklyn Nine Nine](../main/Brooklyn-Nine-Nine/Brooklyn-Nine-Nine.md)        | Easy        |
 | 18    | :green_book: [Mr Robot CTF](../main/Mr-Robot-CTF-room/Mr-Robot-CTF-room.md)                | Medium      |
 | 19    | :green_book: [Wgel CTF](../main/Wgel-CTF-room/Wgel-CTF-room.md)                            | Easy        |
-
+| 20    | :green_book: [Smag Grotto](../main/Smag-Grotto-room/Smag-Grotto-room.md)                   | Easy        |
