@@ -23,3 +23,4 @@
 | 19    | :green_book: [Wgel CTF](../main/Wgel-CTF-room/Wgel-CTF-room.md)                            | Easy        |
 | 20    | :green_book: [Smag Grotto](../main/Smag-Grotto-room/Smag-Grotto-room.md)                   | Easy        |
 | 21    | :green_book: [Archangel](../main/Archangel-room/Archangel-room.md)                         | Easy        |
+| 22    | :green_book: [Lian_Yu](../main/Lian_Yu-room/Lian_Yu-room.md)                               | Easy        |
