@@ -24,3 +24,4 @@
 | 20    | :green_book: [Smag Grotto](../main/Smag-Grotto-room/Smag-Grotto-room.md)                   | Easy        |
 | 21    | :green_book: [Archangel](../main/Archangel-room/Archangel-room.md)                         | Easy        |
 | 22    | :green_book: [Lian_Yu](../main/Lian_Yu-room/Lian_Yu-room.md)                               | Easy        |
+| 23    | :green_book: [Valley](../main/Valley-room/Valley-room.md)                                  | Easy        |
