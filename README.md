@@ -25,3 +25,4 @@
 | 21    | :green_book: [Archangel](../main/Archangel-room/Archangel-room.md)                         | Easy        |
 | 22    | :green_book: [Lian_Yu](../main/Lian_Yu-room/Lian_Yu-room.md)                               | Easy        |
 | 23    | :green_book: [Valley](../main/Valley-room/Valley-room.md)                                  | Easy        |
+| 24    | :green_book: [Easy Peasy](../main/Easy-Peasy-room/Easy-Peasy-room.md)                      | Easy        |
