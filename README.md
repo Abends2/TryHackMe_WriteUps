@@ -27,3 +27,5 @@
 | 23    | :green_book: [Valley](../main/Valley-room/Valley-room.md)                                  | Easy        |
 | 24    | :green_book: [Easy Peasy](../main/Easy-Peasy-room/Easy-Peasy-room.md)                      | Easy        |
 | 25    | :green_book: [Ice](../main/Ice-room/Ice-room.md)                                           | Easy        |
+| 26    | :green_book: [Active-Directory-Basics](../main/Compromising-Active-Directory/Active-Directory-Basics-room/Active-Directory-Basics-room.md) | Easy |
+
