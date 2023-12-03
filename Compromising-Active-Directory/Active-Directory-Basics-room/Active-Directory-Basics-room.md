@@ -189,10 +189,9 @@
 
 Теперь переместим персональные компьютеры и ноутбуки в подразделение "Рабочие станции", а серверы - в подразделение "Серверы" из контейнера "Компьютеры". Это позволит нам позже настроить политики для каждого подразделения.
 
-**Question 8:**
-After organising the available computers, how many ended up in the Workstations OU? - 7
-**Question 9:** 
-Is it recommendable to create separate OUs for Servers and Workstations? (yay/nay) - yay
+**Question 8:** After organising the available computers, how many ended up in the Workstations OU? - 7
+**Question 9:** Is it recommendable to create separate OUs for Servers and Workstations? (yay/nay) - yay
+
 ---
 
 ## Task 6: Group Policies
